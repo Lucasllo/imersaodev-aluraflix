@@ -37,6 +37,10 @@ body {
   #listaFilmes img {
     margin: 10px;
   }
+
+  .filme {
+    width: 130px;    
+  }
   
   .form-wrapper {
     margin: 0 0 15px;
